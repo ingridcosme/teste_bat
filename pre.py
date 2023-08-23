@@ -1,3 +1,6 @@
+import sys
+sys.stdout.reconfigure(encoding='utf-8')
+
 str1 = "Pré-automação rodando..."
 str2 = "\n\nVerificando:"
 str3 = "\n\n-> analisado: ORM\n-> analisado: ÇZT\n-> analisado: &$@"
